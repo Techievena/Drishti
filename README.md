@@ -1,4 +1,4 @@
-# Drishti
+# DRISHTI
 
-For videos of working demonstration visit the youtube channel of drishti:
+## WORKING VIDEO DEMONSTRATION
 https://www.youtube.com/channel/UCuxBEw-F4QkV6DH-cGji32Q
